@@ -4,6 +4,7 @@
 #### Heading level 4
 ##### Heading level 5 
 ###### Heading level 6
+
 Heading level 1 
 ===============
 Heading level 2 
@@ -112,3 +113,35 @@ __*Important*__ text.
             <title>Test</title>
         </head>
 3.  Update the title to match the name of your website
+
+1.  Open the file containing Tux, the Linux mascot.
+2.  Marvel at its beauty.
+
+    ![Tux](gruvbox_tux.png)
+
+3. Close the file.
+
+At the command prompt, type `nvim`
+``Use `code` in your Markdown file.``
+
+    <html>
+      <head>
+      </head>
+    </html>
+
+***
+
+---
+
+______________
+
+[Duck Duck Go](https://duckduckgo.com)
+Use [Duck Duck Go](https://duckduckgo.com "My search engine!")
+
+<https://eff.org>
+<fake@example.org>
+
+I love supporting **[EFF](https://eff.org)**
+This is the *[EFF](https://eff.org)*
+
+![Gruvbox Linux. This image was so cool!](./gruvbox_tux.png "Gruvbox Linux")
