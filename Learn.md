@@ -145,3 +145,61 @@ I love supporting **[EFF](https://eff.org)**
 This is the *[EFF](https://eff.org)*
 
 ![Gruvbox Linux. This image was so cool!](./gruvbox_tux.png "Gruvbox Linux")
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+| Syntax | Description | 
+| --- | ------------|
+| Header | Title | 
+| Paragraph | Text |
+
+[Use this instead to speed up proceses creating table](http://www.tablesgenerator.com/markdown_tables)
+
+| Syntax    | Description | Test Text    |
+| :---      |    :----:   |         ---: |
+| Header    | Title       | Here's this  |
+| Paragraph | Text        | And more     |
+
+```json
+{
+    "firstName": "John",
+    "lastName":  "Smith",
+    "age": 25
+}
+```
+
+Here's a simple footnote,[^1] and here's a longer one. [^bignote]
+
+[^1]: This is the first footnote. 
+
+[^bignote]: Here's one with multiple paragraphs and code. 
+
+    Indent paragraphs to include them in the footnote. 
+    
+    `{ my code }`
+
+    Add as many paragraphs as you like
+
+### My Great Heading {#custom-id}
+[Heading IDs](#heading-ids)
+[Heading IDs](https://www.eff.org/page#heading-ids)
+
+First term
+: This is the definition of the first term. 
+
+Second term 
+: This is one definition of the second term. 
+: This is another definiton of the second term. 
+
+The world is ~~flat~~ round
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+`http://www.example.com`
+
+
