@@ -92,8 +92,6 @@ Use [Duck Duck Go](https://duckduckgo.com "My search engine!")
 I love supporting **[EFF](https://eff.org)**
 This is the *[EFF](https://eff.org)*
 
-![Gruvbox Linux. This image was so cool!](gruvbox_tux.png "Gruvbox Linux")
-
 | Syntax    | Description |
 | --------- | ----------- |
 | Header    | Title       |
